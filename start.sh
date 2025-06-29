@@ -40,6 +40,6 @@ for SERVICE in buyx_trade; do
 done
 
 echo "Starting services with Docker Compose..."
-docker compose up --build -d
+sudo docker compose up --build -d
 
 echo "Services started successfully."
