@@ -1,2 +1,2 @@
-# buyx_trade_start
-交易启动脚本
+# buydip_start
+buydip 启动
