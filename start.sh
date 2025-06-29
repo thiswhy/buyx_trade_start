@@ -31,8 +31,7 @@ fi
 # 定义要修改的路径
 NEW_PATH="file:./buydip_scheme"
 
-# 修改 buydip-server 和 buydip_engine 中的 package.json
-for SERVICE in buydip-server buydip_engine; do
+for SERVICE in buyx_trade; do
     PACKAGE_JSON="$SERVICE/package.json"
     TEMP_JSON="$SERVICE/temp.json"
 

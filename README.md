@@ -1,2 +1,2 @@
-# buydip_start
-buydip 启动
+# buyx_trade_start
+buyx 交易启动
